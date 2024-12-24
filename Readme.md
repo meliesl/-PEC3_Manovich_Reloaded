@@ -1,3 +1,4 @@
+Autor: **Miguel Elies Llorens**
 # Las gafas de Manovich
 
 Gracias a los avances digitales y las nuevas tecnologías, se puede dar paso a la hibridación, creando nuevas experiencias y productos que resultan de la combinación de otros ya existentes y que se basan en la tecnología para evolucionarlos y adaptarlos. Esto permite nuevas formas de interacción y desarrollo de actividades comunes.
